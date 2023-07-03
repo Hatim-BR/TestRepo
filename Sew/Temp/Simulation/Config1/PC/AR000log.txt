@@ -1,18 +1,18 @@
-Mon Jul  3 10:52:31 2023
+Mon Jul  3 12:11:04 2023
 COPYRIGHT (C) B&R Industrial Automation GmbH
 
-Mon Jul  3 10:52:31 2023
+Mon Jul  3 12:11:04 2023
 No ARsim registration found!
 
-Mon Jul  3 10:52:31 2023
-InstanceName: 000010700091892e
+Mon Jul  3 12:11:04 2023
+InstanceName: 0000107af9f1cf1a
 
-Mon Jul  3 10:52:31 2023
-WorkingDirectory: C:\projects\SewMachine\SewingMachine\Sew\Temp\Simulation\Config1\PC\
+Mon Jul  3 12:11:04 2023
+WorkingDirectory: C:\projects\SewMachine\TestRepo\Sew\Temp\Simulation\Config1\PC\
 
-Mon Jul  3 10:52:31 2023
+Mon Jul  3 12:11:04 2023
 COMMAND_COLDSTART
 
-Mon Jul  3 10:52:33 2023
+Mon Jul  3 12:11:06 2023
 Version: B4.93
 
